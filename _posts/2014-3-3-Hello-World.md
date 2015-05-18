@@ -5,4 +5,4 @@ published: true
 ---
 
 
-Next you can update your site.
+Thank you for visiting my site.
