@@ -21,7 +21,7 @@ description: "Next Apps - Future of applications"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://nextapps.pl/"
+url: "http://nextapps.pl"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
