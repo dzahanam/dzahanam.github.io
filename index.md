@@ -7,14 +7,14 @@
 layout: frontpage
 title: "NextApps – Future of applications"
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
+   image_fullwidth: "20150124.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'blog'
     text: 'Our projects and hacks'
     image: iconShopping.png
 widget-2:
-    title: "Why we?"
+    title: "Why us?"
     url: 'contact'
     text: 'Future apps must be designed for simplicity, security and a satisfying. Tell us what you need via Twitter <a  href="http://twitter.com/michalolczak">@michalolczak</a> or <b> contact form: </b>'
     image: ic_launcher.png
