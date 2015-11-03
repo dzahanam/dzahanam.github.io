@@ -14,7 +14,7 @@ widget-1:
     text: 'Our projects and hacks'
     image: iconShopping.png
 widget-2:
-    title: "Why us?"
+    title: "Why us Trututu?"
     url: 'contact'
     text: 'Future apps must be designed for simplicity, security and a satisfying. Tell us what you need via Twitter <a  href="http://twitter.com/michalolczak">@michalolczak</a> or <b> contact form: </b>'
     image: ic_launcher.png
