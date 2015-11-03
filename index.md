@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "NextApps – Future of applications"
+title: "NextCośtam – Future of applications"
 header:
    image_fullwidth: "20150124.jpg"
 widget-1:
